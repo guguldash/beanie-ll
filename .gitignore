@@ -1,0 +1,10 @@
+mydebug.py
+debug.py
+.git
+.github
+.pytest_cache
+__pycache__
+penv
+.env
+*.pyc
+*.pyo
